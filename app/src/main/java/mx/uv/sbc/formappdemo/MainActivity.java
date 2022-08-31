@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView (R.layout.activity_main);
-
+        //hola soy el kevin
         EditText edtName = findViewById (R.id.edtName);
         EditText edtLastname = findViewById (R.id.edtLastname);
         EditText edtPhone = findViewById (R.id.edtPhone);
